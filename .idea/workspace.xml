@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="aacafef6-7106-4cee-850d-71fab82b9cc7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/estilos.css" afterPath="$PROJECT_DIR$/estilos.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,21 +17,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="41" column="30" lean-forward="false" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+            <state relative-caret-position="17">
+              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="estilos.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="estilos.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/estilos.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="226" column="16" lean-forward="true" selection-start-line="226" selection-start-column="16" selection-end-line="226" selection-end-column="16" />
+            <state relative-caret-position="164">
+              <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -40,36 +41,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>capa2</find>
-      <find>intere</find>
-      <find>lo</find>
-      <find>estud</find>
-      <find>body</find>
-      <find>logi</find>
-      <find>com</find>
-      <find>estu</find>
-      <find>ul</find>
-      <find>tav</find>
-      <find>rele</find>
       <find>es</find>
       <find>#</find>
       <find>capa1</find>
       <find>re</find>
-      <find>h2</find>
-      <find>h1</find>
       <find>capa3</find>
-      <find>h4</find>
       <find>ulti</find>
       <find>in</find>
       <find>ult</find>
       <find>pr</find>
       <find>profesio</find>
-      <find>h5</find>
       <find>h3</find>
-      <find>co</find>
       <find>.es</find>
       <find>p{</find>
       <find>.fec</find>
+      <find>audio</find>
+      <find>h2</find>
+      <find>ta</find>
+      <find>ul</find>
+      <find>h5</find>
+      <find>3</find>
+      <find>h1</find>
+      <find>capa3</find>
+      <find>inte</find>
+      <find>#cap</find>
+      <find>.profesional</find>
+      <find>co</find>
+      <find>.r</find>
+      <find>h4</find>
+      <find>ca</find>
+      <find>estu</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -78,8 +79,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/estilos.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/estilos.css" />
       </list>
     </option>
   </component>
@@ -175,12 +176,12 @@
       <workItem from="1522743179408" duration="144000" />
       <workItem from="1522956905290" duration="7012000" />
       <workItem from="1523000547838" duration="40000" />
-      <workItem from="1523173007025" duration="6294000" />
+      <workItem from="1523173007025" duration="13165000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53004000" />
+    <option name="totallyTimeSpent" value="59875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1386" height="728" extended-state="0" />
@@ -444,18 +445,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/estilos.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="226" column="16" lean-forward="true" selection-start-line="226" selection-start-column="16" selection-end-line="226" selection-end-column="16" />
+        <state relative-caret-position="17">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/estilos.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="41" column="30" lean-forward="false" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+        <state relative-caret-position="164">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
           <folding />
         </state>
       </provider>

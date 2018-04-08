@@ -1,7 +1,12 @@
+section{
+
+    background-color: #E3DDD5;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
 body{
     margin:0;
-    font-size:14px;
-    width:100%;
     background-color: #E3DDD5;
     background-attachment: fixed;
     background-size: cover;
@@ -10,16 +15,18 @@ body{
 
 
 #capa3{
-    width: 100%;
-    height: 5em;
-    text-align: center;
+    padding-left: 40px;
+    background-color: #B6C1D0;
+    width: 90%;
     margin: 0;
+
+
 }
 
 
 
 ul {
-    font-size: 50px;
+    font-size: 1em;
     margin-left: 50px;
     color: #483d3c;
 }
@@ -30,9 +37,12 @@ td{
 table{
     width: 100%;
     margin: 0;
+
+
+
 }
 #capa3 p{
-    font-size: 25px;
+    font-size: 10px;
     font-family: Arial;
     margin: 0;
 }
@@ -52,7 +62,7 @@ table{
 .profesional p{
     color:#5E5655;
     font-family: Arial;
-    font-size: 3em;
+    font-size: 1em;
     text-align: center;
     margin: 0;
     border: 1px solid #B6C1D0;
@@ -63,14 +73,15 @@ h1{
     color: #5E5655;
     margin: 0;
     font-family: sans-serif Arial;
-    font-size: 5em;
+    font-size: 1.5em;
+    font-weight: bold;
 }
 
 .relevantes p{
     color: #322A2B;
     margin: 0;
     text-align: center;
-    font-size: 3em;
+    font-size: 1em;
     padding: 30px;
 }
 
@@ -84,9 +95,9 @@ h1{
 }
 
 #capa3 p{
-    display: inline-block;
+    display: block;
     margin: 0;
-    font-size: 2.3em;
+    font-size: 1.5em;
 }
 #capa3 .telefono{
     border: 1px solid gray;
@@ -154,7 +165,7 @@ section div{
 }
 h2{
     color: #B6C1D0;
-    font-size: 4em;
+    font-size: 1.5em;
     text-align: center;
     margin-right: 5em;
 }
@@ -164,6 +175,7 @@ h2{
     margin-bottom: 0;
     border-radius: 1px;
     border: 1px solid #A29EA1;
+
 }
 table{
     margin: 0;
@@ -196,18 +208,18 @@ img{
 
 }
 #capa3 p{
-margin-left: 10px;
+    margin-left: 10px;
     background-size: contain;
 }
 #ultima p{
-    display: inline-block;
+    display: block;
     color: #322A2B;
 }
 #ultima .internet{
     background-image: url("img/internet.PNG");
-    width: 80px;
-    height: 77px;
-    border-radius: 50px;
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
 }
 a{
     color: black;
@@ -218,21 +230,20 @@ a:hover{
 }
 #ultima .viaje{
     background-image: url("img/avion.PNG");
-    width: 85px;
-    height: 79px;
-    border-radius: 50px;
+    width: 65px;
+    height: 69px;
+    border-radius: 40px;
 }
 #ultima .sport{
     background-image: url("img/sport.PNG");
-    width: 80px;
-    height: 77px;
-    text-align: center;
+    width: 60px;
+    height: 67px;
     border: 1px solid gray;
     border-radius: 50px;
 }
 #ultima p{
-    margin-left: 99px;
-    font-size: 4em;
+    font-size: 1em;
+
 }
 #ultima .leer{
     background-image: url("img/libros.PNG");
@@ -267,43 +278,42 @@ a:hover{
 }
 
 h5{
-    font-size: 3em;
-    text-align: center;
+    font-size: 1.5em;
     font-family: sans-serif;
     color: #E3DDD5;
-    margin-right: 8em;
+    margin-right: 4em;
     margin-left: 0;
     margin-top: 0;
     margin-bottom: 0;
+    padding: 0;
 }
 .estudios{
     background-color: #6D6261;
 
 }
 
- .estudios h4{
+.estudios h4{
     text-align: center;
-     font-size: 3.5em;
-     color: #B6C1D0;
-     margin-right: 2em;
+    font-size: 1.5em;
+    color: #B6C1D0;
+    margin-right: 1em;
 }
- .estudios p{
-     color:#C4A8AD;
-     font-family: Arial;
-     font-size: 2.6em;
-     text-align: center;
-     margin: 0;
- }
+.estudios p{
+    color:#C4A8AD;
+    font-family: Arial;
+    font-size: 1.6em;
+    text-align: center;
+    margin: 0;
+}
 h3{
     color:#E3DDD5 ;
     text-align: center;
-    font-size: 4em;
+    font-size: 1em;
     margin: 0;
 
 }
 
 audio{
-    margin-left: 40%;
-    width: 940px;
+    width: 800px;
 
 }
