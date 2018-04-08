@@ -1,0 +1,309 @@
+body{
+    margin:0;
+    font-size:14px;
+    width:100%;
+    background-color: #E3DDD5;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: "sans-serif Arial";
+}
+
+
+#capa3{
+    width: 100%;
+    height: 5em;
+    text-align: center;
+    margin: 0;
+}
+
+
+
+ul {
+    font-size: 50px;
+    margin-left: 50px;
+    color: #483d3c;
+}
+td{
+    border: 1px solid #483d3c;
+}
+
+table{
+    width: 100%;
+    margin: 0;
+}
+#capa3 p{
+    font-size: 25px;
+    font-family: Arial;
+    margin: 0;
+}
+
+
+#ultima{
+    margin: 0;
+    text-align: center;
+
+    padding: 6em;
+}
+#capa1{
+    background-color:#E3DDD5;
+    margin: 0;
+    padding: 3em;
+}
+.profesional p{
+    color:#5E5655;
+    font-family: Arial;
+    font-size: 3em;
+    text-align: center;
+    margin: 0;
+    border: 1px solid #B6C1D0;
+}
+
+h1{
+    text-align: center;
+    color: #5E5655;
+    margin: 0;
+    font-family: sans-serif Arial;
+    font-size: 5em;
+}
+
+.relevantes p{
+    color: #322A2B;
+    margin: 0;
+    text-align: center;
+    font-size: 3em;
+    padding: 30px;
+}
+
+.relevantes{
+    margin: 0;
+    border: 1px solid #B6C1D0 ;
+}
+.estudios{
+    margin: 0;
+    border: 1px solid #6D6261;
+}
+
+#capa3 p{
+    display: inline-block;
+    margin: 0;
+    font-size: 2.3em;
+}
+#capa3 .telefono{
+    border: 1px solid gray;
+    border-radius: 50px;
+}
+#capa3 .gmail{
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+#capa3 .soltera{
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+#capa3 .fecha{
+    border: 1px solid gray;
+    border-radius: 20px;
+    margin-left: 0;
+}
+#capa3 .fecha{
+    background-image: url("img/fe1.PNG");
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 42px;
+    height: 39px;
+    margin-left: 0;
+}
+
+
+section div{
+    text-align: left;
+    font-size: 20px;
+    background-color: #B6C1D0;
+}
+#capa3 .soltera{
+    background-image: url("img/soltera.PNG");
+    width: 27px;
+    height: 45px;
+    background-size: contain;
+    margin-left: 10px;
+}
+#capa3{
+    display: inline-block;
+
+}
+#capa3 .telefono{
+    background-image: url("img/tel1.PNG");
+    width: 74px;
+    height: 47px;
+    background-size: contain;
+    margin-left: 10px;
+}
+#capa3 .gmail{
+    background-image: url("img/g1.PNG");
+    width: 78px;
+    height: 59px;
+    background-size: contain;
+    margin-left: 30px;
+}
+#capa1 p{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h2{
+    color: #B6C1D0;
+    font-size: 4em;
+    text-align: center;
+    margin-right: 5em;
+}
+.competencia{
+    background-color: #C4A8AD;
+    margin-top:0;
+    margin-bottom: 0;
+    border-radius: 1px;
+    border: 1px solid #A29EA1;
+}
+table{
+    margin: 0;
+    width: 100%;
+}
+
+img{
+    border-radius: 4px;
+    border: 2px solid white;
+}
+[type="checkbox"]{
+    display:none;
+}
+
+[type="checkbox"]+label{
+    display:inline-block;
+    width:44px;
+    height:81px;
+    background-repeat: no-repeat;
+
+
+}
+#capa2{
+    background-color: #322A2B;
+    height: 39px;
+    margin-top: 0;
+}
+.competencia{
+    background-color: #A29EA1;
+
+}
+#capa3 p{
+margin-left: 10px;
+    background-size: contain;
+}
+#ultima p{
+    display: inline-block;
+    color: #322A2B;
+}
+#ultima .internet{
+    background-image: url("img/internet.PNG");
+    width: 80px;
+    height: 77px;
+    border-radius: 50px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+#ultima .viaje{
+    background-image: url("img/avion.PNG");
+    width: 85px;
+    height: 79px;
+    border-radius: 50px;
+}
+#ultima .sport{
+    background-image: url("img/sport.PNG");
+    width: 80px;
+    height: 77px;
+    text-align: center;
+    border: 1px solid gray;
+    border-radius: 50px;
+}
+#ultima p{
+    margin-left: 99px;
+    font-size: 4em;
+}
+#ultima .leer{
+    background-image: url("img/libros.PNG");
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+}
+#ultima{
+    background-color: #C4A8AD;
+    border: 1px solid #C4A8AD;
+
+}
+#facebook+label{
+    background-image:url(img/fa1.PNG);
+}
+#facebook:checked+label{
+    background-image:url(img/fa1.PNG);
+}
+#mensanger+label{
+    background-image: url("img/men1.PNG");
+}
+
+#whatsapp+label{
+    background-image:url(img/wa1.PNG);
+}
+#whatsapp:checked+label{
+    background-image:url(img/wa1.PNG);
+}
+#capa2{
+    text-align: center;
+    margin-top:5px;
+}
+
+h5{
+    font-size: 3em;
+    text-align: center;
+    font-family: sans-serif;
+    color: #E3DDD5;
+    margin-right: 8em;
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.estudios{
+    background-color: #6D6261;
+
+}
+
+ .estudios h4{
+    text-align: center;
+     font-size: 3.5em;
+     color: #B6C1D0;
+     margin-right: 2em;
+}
+ .estudios p{
+     color:#C4A8AD;
+     font-family: Arial;
+     font-size: 2.6em;
+     text-align: center;
+     margin: 0;
+ }
+h3{
+    color:#E3DDD5 ;
+    text-align: center;
+    font-size: 4em;
+    margin: 0;
+
+}
+
+audio{
+    margin-left: 40%;
+    width: 940px;
+
+}
